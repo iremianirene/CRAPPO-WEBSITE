@@ -3,10 +3,6 @@
     padding: 0;
     font-family: 'Rubik';
 } 
-/* body[data-aos-duration='3000'] [data-aos],
-[data-aos][data-aos][data-aos-duration='3000'] {
-     transition-duration: 2900ms;
-} */
 .first-page{
     background-color: rgb(13,13,43);
     padding: 0px 40px;
@@ -481,7 +477,7 @@ footer{
     font-size: 16px;
     font-weight: 400;
 }
-.footer-content .start .links a:hover{
+.footer-content .start .link a:hover{
     color: #3671E9;
 }
 .footer-content .start .payment{
